@@ -1,0 +1,12 @@
+node_modules
+.git
+.gitignore
+.env.local
+.vite
+.DS_Store
+src
+tsconfig.json
+server.ts
+index.html
+docs
+*.md
