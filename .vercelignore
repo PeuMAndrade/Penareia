@@ -4,9 +4,4 @@ node_modules
 .env.local
 .vite
 .DS_Store
-src
-tsconfig.json
-server.ts
-index.html
-docs
-*.md
+/.vercel
