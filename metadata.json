@@ -1,0 +1,12 @@
+{
+  "name": "Pé na Areia",
+  "description": "Plataforma inteligente de monitoramento e recomendação de condições das praias em tempo real.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Real-time Data",
+    "Interactive Maps",
+    "Personalized Alerts"
+  ]
+}
